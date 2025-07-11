@@ -9,4 +9,5 @@ composition result = B matrix x A matrix (reading from right to left)
 Matrix multiplication is column-by-column and each column represents where the basis vectors land
 Associative means doesn't matter where the parenthesis were placed, the end result is the same
 
-![working-out](https://github.com/user-attachments/assets/5727179e-2664-44ea-8838-68134ddc3a83)
+
+![WhatsApp Image 2025-07-11 at 19 46 51_4eccaba6](https://github.com/user-attachments/assets/bb445999-bfba-42d5-88c1-319a594089d8)
